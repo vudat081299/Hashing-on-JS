@@ -152,11 +152,22 @@ a:hover, a.active {
   cursor: pointer;
 }
 
+.test {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+}
+
 .hide {
   visibility: hidden;
 }
 
 textarea {
+  border: 0px;
   /*font-family:Consolas,'Lucida Console','DejaVu Sans Mono',monospace;*/
   font-size: 12pt;
   max-width: 95%;
