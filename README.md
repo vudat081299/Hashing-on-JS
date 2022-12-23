@@ -1,2 +1,2 @@
-# University---Cryptography---Week-3
+# University Cryptography Week 3
 HW on Teams week 3
