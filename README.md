@@ -1,2 +1,2 @@
 # University Cryptography Week 3
-HW on Teams week 3
+Implement puse SHA256 and md5 in Javascript
